@@ -1,0 +1,18 @@
+E:\pila_c_sharp\pila_c_sharp\pila_c_sharp\bin\Debug\pila_c_sharp.exe.config
+E:\pila_c_sharp\pila_c_sharp\pila_c_sharp\obj\Debug\pila_c_sharp.csprojResolveAssemblyReference.cache
+E:\pila_c_sharp\pila_c_sharp\pila_c_sharp\obj\Debug\pila_c_sharp.Form1.resources
+E:\pila_c_sharp\pila_c_sharp\pila_c_sharp\obj\Debug\pila_c_sharp.Properties.Resources.resources
+E:\pila_c_sharp\pila_c_sharp\pila_c_sharp\obj\Debug\pila_c_sharp.csproj.GenerateResource.Cache
+E:\pila_c_sharp\pila_c_sharp\pila_c_sharp\bin\Debug\pila_c_sharp.exe
+E:\pila_c_sharp\pila_c_sharp\pila_c_sharp\bin\Debug\pila_c_sharp.pdb
+E:\pila_c_sharp\pila_c_sharp\pila_c_sharp\obj\Debug\pila_c_sharp.exe
+E:\pila_c_sharp\pila_c_sharp\pila_c_sharp\obj\Debug\pila_c_sharp.pdb
+E:\01 - Pila_c_sharp - Sergio Posse - Matematica Aplicada\pila_c_sharp\pila_c_sharp\bin\Debug\pila_c_sharp.exe.config
+E:\01 - Pila_c_sharp - Sergio Posse - Matematica Aplicada\pila_c_sharp\pila_c_sharp\obj\Debug\pila_c_sharp.exe
+E:\01 - Pila_c_sharp - Sergio Posse - Matematica Aplicada\pila_c_sharp\pila_c_sharp\obj\Debug\pila_c_sharp.pdb
+E:\01 - Pila_c_sharp - Sergio Posse - Matematica Aplicada\pila_c_sharp\pila_c_sharp\bin\Debug\pila_c_sharp.exe
+E:\01 - Pila_c_sharp - Sergio Posse - Matematica Aplicada\pila_c_sharp\pila_c_sharp\bin\Debug\pila_c_sharp.pdb
+E:\01 - Pila_c_sharp - Sergio Posse - Matematica Aplicada\pila_c_sharp\pila_c_sharp\obj\Debug\pila_c_sharp.csprojResolveAssemblyReference.cache
+E:\01 - Pila_c_sharp - Sergio Posse - Matematica Aplicada\pila_c_sharp\pila_c_sharp\obj\Debug\pila_c_sharp.Form1.resources
+E:\01 - Pila_c_sharp - Sergio Posse - Matematica Aplicada\pila_c_sharp\pila_c_sharp\obj\Debug\pila_c_sharp.Properties.Resources.resources
+E:\01 - Pila_c_sharp - Sergio Posse - Matematica Aplicada\pila_c_sharp\pila_c_sharp\obj\Debug\pila_c_sharp.csproj.GenerateResource.Cache

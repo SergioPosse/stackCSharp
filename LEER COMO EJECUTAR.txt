@@ -1,0 +1,1 @@
+usar el .exe de la carpeta /bin/debug
